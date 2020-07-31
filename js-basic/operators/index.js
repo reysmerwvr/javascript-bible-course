@@ -215,3 +215,19 @@ console.log(w); // 17
 // w = w / 2;
 w /= 2;
 console.log(w); // 8.5
+
+function fn() {
+  console.log("Hellow from fn");
+
+  return function(a) {
+    console.log(a);
+  }
+}
+
+fn() // Hellow from fn
+(true) // true
+
+fn()(true) // Hellow from fn true
+
+fn(); // Hellow from fn
+(true)
