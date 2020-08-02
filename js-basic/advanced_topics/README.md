@@ -69,3 +69,7 @@ const myFunc2 = new Function("a", "console.log(a);");
 myFunc2 instanceof Function // true
 myFunc2 instanceof Object // true
 ```
+
+## Callback
+
+Is a function passed as argument in the call to other function
