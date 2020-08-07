@@ -29,7 +29,7 @@ a => a * a
 
 Arrow functions don't have own this, "this" in arrow functions is always statically defined by the surrounding lexical scope
 
-Arrow functions summary 
+Arrow functions summary
 
 - are anonymous
 - are expressions
