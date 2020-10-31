@@ -17,7 +17,7 @@ Download zip file and extract it [latest release](https://github.com/reysmerwvr/
 
 javascript-bible-course uses a number of open source projects to work properly:
 
--[Node] - Node
+- [Node]
 
 ## 🚀 Running a NodeJs Script
 
